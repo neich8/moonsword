@@ -1,0 +1,12 @@
+{
+  "resource_pack_name": "custom_item_resource_pack",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "moon_rock": {
+      "textures": "textures/items/goo"
+    },
+    "moon_sword": {
+      "textures": "textures/items/my_sword1"
+    }
+  }
+}

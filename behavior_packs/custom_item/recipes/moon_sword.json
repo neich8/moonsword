@@ -1,0 +1,21 @@
+{
+  "format_version": "1.12.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "moon_sword"
+    },
+    "tags": ["crafting_table"],
+    "pattern": ["E", "#"],
+    "key": {
+      "#": {
+        "item": "minecraft:stick"
+      },
+      "E": {
+        "item": "minecraft:moon_rock"
+      }
+    },
+    "result": {
+      "item": "demo:my_sword"
+    }
+  }
+}
